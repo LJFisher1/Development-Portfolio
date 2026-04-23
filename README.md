@@ -1,33 +1,58 @@
 # Development Portfolio
 
-Welcome to my GitHub portfolio! Here you can explore some of my projects that demonstrate my skills in **game development**, **programming**, and **software design**. My main focuses are on **C++, C#, Python**, and **Unity**.
+Welcome to my development portfolio. This repository showcases selected projects demonstrating my experience in software development, game development, and system design using C#, C++, Python, and Unity.
 
-## Projects
+---
 
-### [EduForge (C# in Unity)](https://github.com/LJFisher1/EduForge_Public)
-- **Description**: Educational game designed to teach math concepts through interactive gameplay. Focused on **gameplay logic**, **UI design**, and **interactive learning**.
-- **Technologies Used**: Unity, C#
+## Featured Project
 
-### [Pantry Craft (Python)](https://github.com/LJFisher1/PantryCraft_Public)
-- **Description**: A meal planning app that helps users generate grocery lists and meal plans based on dietary preferences.
-- **Technologies Used**: Python
+### Adaptive Math Tutor (Capstone Project)
+**Technologies:** Unity (C#), FastAPI, SQLite, WebGL  
 
-### [Operation Run (C# in Unity)](https://github.com/LJFisher1/Operation_Run)
-- **Description**: A first-person shooter game developed in Unity, where I contributed to **game mechanics**, **AI behavior**, and **level design**.
-- **Technologies Used**: Unity, C#
+A session-based adaptive tutoring system designed to dynamically adjust problem difficulty based on user performance within a single session.
 
-### [Calculator (C++)](https://github.com/LJFisher1/Calculator)
-- **Description**: A simple console calculator application built in C++ to practice basic programming concepts like mathematical operations and user input handling.
-- **Technologies Used**: C++
+- Implemented reinforcement learning–inspired difficulty adjustment without persistent user profiles  
+- Designed a baseline vs adaptive learning comparison (18 problems per session)  
+- Built a telemetry backend to collect per-question performance data  
+- Tracked metrics including accuracy, response time, hint usage, and difficulty progression  
+- Deployed as a WebGL application via Itch.io for live user testing  
 
-### [Brickbreaker (C++)](https://github.com/LJFisher1/Brickbreaker)
-- **Description**: A console-based **Brickbreaker game**, showcasing skills in **C++** and basic **game mechanics** like collision detection and paddle movement.
-- **Technologies Used**: C++
+---
 
-### [Blackjack Game (C#)](https://github.com/LJFisher1/BlackjackGame)
-- **Description**: A console-based Blackjack game developed in C#, demonstrating **game logic**, **object-oriented programming**, and basic user interactions.
-- **Technologies Used**: C#
+## Additional Projects
 
-## Contact Information
-- **Email**: Vulra1@yahoo.com
-- **LinkedIn**: [Joseph Fisher LinkedIn](https://www.linkedin.com/in/josephfisher25422/)
+### EduForge (Unity, C#)
+Educational application focused on teaching math concepts through interactive gameplay systems.  
+- Implemented gameplay logic, UI systems, and interactive learning mechanics  
+
+---
+
+### Pantry Craft (Python)
+Meal planning application that generates grocery lists and meal plans based on user preferences.  
+- Focused on input handling, logic structuring, and usability  
+
+---
+
+### Operation Run (Unity, C#)
+First-person shooter prototype developed in Unity.  
+- Contributed to gameplay systems, AI behavior, and level design  
+
+---
+
+### Systems & Programming Projects
+
+#### Calculator (C++)
+Console-based application demonstrating core programming logic and input handling  
+
+#### Brickbreaker (C++)
+Game implementation showcasing collision detection and core game mechanics  
+
+#### Blackjack Game (C#)
+Object-oriented card game implementation demonstrating structured game logic and user interaction  
+
+---
+
+## Contact
+
+Email: vulra1@yahoo.com  
+LinkedIn: https://www.linkedin.com/in/josephfisher25422/
